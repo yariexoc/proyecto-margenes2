@@ -1,0 +1,248 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.imagen1{
+  width: 970px;
+  height: 1390px;
+  margin: 80px 60px;
+  background-color:silver;
+}
+.art1{
+  display: inline-block;
+  width: 900px;
+  height: 600px;
+  margin: 10px 30px 0 40px;
+  background-color: green;
+}
+.art2{
+  width: 900px;
+  height: 400px;
+  margin: 20px 10px 30px 60px;
+  background-color: red;
+}
+.art3{
+  width: 900px;
+  height:300px;
+  margin: 30px 40px 30px 30px;
+  background-color: blue;
+}
+
+/* segundo */
+.imagen2{
+  width: 895px;
+  height: 950px;
+  margin: 60px 80px;
+  background-color: purple;
+}
+.a1{
+  display: inline-block;
+  width: 835px;
+  height: 260px;
+  margin: 30px 20px 15px 40px;
+  background-color: skyblue;
+}
+.a2{
+  width: 835px;
+  height: 350px;
+  margin: 0px 30px 20px 30px;
+  background-color: skyblue;
+}
+.a3{
+  width: 835px;
+  height:250px;
+  margin: 0px 15px 25px 25px;
+  background-color: skyblue;
+}
+.b1{
+  width: 700px;
+  height:100px;
+  margin: 30px 15px 20px 20px;
+  background-color: yellow;
+
+}
+.b2{
+  width: 700px;
+  height:200px;
+  margin: 0px 15px 10px 20px;
+  background-color: yellow;
+}
+.b3{
+  display: inline-block;
+  width: 800px;
+  height:300px;
+  margin: 30px 25px 20px 10px;
+  background-color: yellow;
+}
+
+/* tercero */
+.imagen3{
+  width: 980px;
+  height: 830px;
+  margin: 40px 30px;
+  background-color: pink;
+}
+.a{
+  display: inline-block;
+  width: 900px;
+  height: 300px;
+  margin: 10px 40px 30px 40px;
+  background-color: black;
+}
+.b{
+  width: 900px;
+  height: 240px;
+  margin: 0px 50px 40px 30px;
+  background-color: black;
+}
+.c{
+  width: 900px;
+  height:200px;
+  margin: 0px 60px 10px 20px;
+  background-color: black;
+}
+.b1{
+  display: inline-block;
+  width: 850px;
+  height:100px;
+  margin: 10px 15px 20px 15px;
+  background-color: yellow;
+
+}
+.b2{
+  width: 850px;
+  height:100px;
+  margin: 0px 15px 10px 15px;
+  background-color: yellow;
+}
+.c1{
+  display: inline-block;
+  width: 860px;
+  height:140px;
+  margin: 30px 10px 30px 30px;
+  background-color: yellow;
+}
+.c2{
+  display: inline-block;
+  width: 820px;
+  height:100px;
+  margin: 20px 20px 20px 20px;
+  background-color: green;
+}
+.c3{
+  width: 780px;
+  height:80px;
+  margin: 10px 20px 10px 20px;
+  background-color: gray;
+}
+
+/* cuatro */
+.imagen4{
+  width: 1000px;
+  height: 1200px;
+  margin: 40px 40px;
+  background-color: silver;
+}
+.d{
+  display: inline-block;
+  width: 960px;
+  height: 1160px;
+  margin: 20px 20px 20px 20px;
+  background-color: brown;
+}
+.d1{
+  width: 900px;
+  height: 1100px;
+  margin: 30px 30px 30px 30px;
+  background-color: violet;
+}
+.d2{
+  display:inline-block;
+  width: 880px;
+  height:520px;
+  margin: 20px 10px 20px 10px;
+  background-color: blue;
+}
+.d3{
+  display:inline-block;
+  width: 840px;
+  height:500px;
+  margin: 10px 20px 10px 20px;
+  background-color: orange;
+}
+.d4{
+  display:inline-block;
+  width: 780px;
+  height:460px;
+  margin: 20px 30px 20px 30px;
+  background-color: purple;
+}
+.d5{
+  display:inline-block;
+  width: 880px;
+  height:520px;
+  margin: 0px 10px 20px 10px;
+  background-color: blue;
+}
+.d6{
+  display:inline-block;
+  width: 840px;
+  height:500px;
+  margin: 10px 20px 10px 20px;
+  background-color: orange;
+}
+.d7{
+  display:inline-block;
+  width: 780px;
+  height:460px;
+  margin: 20px 30px 20px 30px;
+  background-color: purple;
+}
+/* cinco */
+.imagen5{
+  width: 920px;
+  height: 1480px;
+  margin: 70px 60px;
+  background-color: crimson;
+}
+.e1{
+  display: inline-block;
+  width: 820px;
+  height: 1200px;
+  margin: 20px 60px 40px 40px;
+  background-color: black;
+}
+.e2{
+  display: inline-block;
+  width: 820px;
+  height: 200px;
+  margin: 0px 60px 40px 40px;
+  background-color: black;
+}
+.f1{
+  display: inline-block;
+  width: 760px;
+  height: 300px;
+  margin: 20px 30px 30px 30px;
+  background-color: green;
+}
+.f2{
+  display: inline-block;
+  width: 760px;
+  height: 300px;
+  margin: 0px 20px 15px 40px;
+  background-color: green;
+}
+.f3{
+  display: inline-block;
+  width: 760px;
+  height: 300px;
+  margin: 0px 40px 15px 20px;
+  background-color: green;
+}
+.f4{
+  display: inline-block;
+  width: 760px;
+  height: 200px;
+  margin: 0px 45px 20px 15px;
+  background-color: green;
